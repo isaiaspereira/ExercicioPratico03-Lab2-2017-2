@@ -9,7 +9,7 @@ namespace WebAppExercicioPratico03_Lab2_2017_2_.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(WebAppExercicioPratico03_Lab2_2017_2_.Models.SistemaAcademicoContext context)
